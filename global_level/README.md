@@ -74,8 +74,11 @@ Gemini client already globally set hai — isliye woh wahi use karega.
 # ✅ Summary (Super Easy Zubaan Me)
 Kya Karta Hai	                Matlab
 set_default_openai_client()	    Gemini ko default client bana deta hai poore project ke liye
+
 set_default_openai_api()	    Batata hai ke hum chat API use kar rahe hain
+
 agent = Agent(...)	            Simple agent ban jata hai, client separately dene ki zarurat nahi
+
 Runner.run_sync(...)	        Agent se baat kar ke reply leta hai
 
 
